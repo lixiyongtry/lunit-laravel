@@ -8,7 +8,7 @@ Laravel >= 5.1
 
 > 安装
 
-composer require "lixiyong/ljunit-laravel"
+composer require "lixiyong/lunit-laravel"
 
 > 配置
 > Laravel 应用

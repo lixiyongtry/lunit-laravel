@@ -13,5 +13,12 @@
         "psr-4": {
             "Lixiyong\\LunitLaravel\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "provider": [
+                "Lixiyong\\LunitLaravel\\Provider\\LunitServiceProvider"
+            ]
+        }
     }
 }
