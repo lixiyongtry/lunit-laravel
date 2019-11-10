@@ -16,7 +16,7 @@
     },
     "extra": {
         "laravel": {
-            "provider": [
+            "providers": [
                 "Lixiyong\\LunitLaravel\\Provider\\LunitServiceProvider"
             ]
         }
