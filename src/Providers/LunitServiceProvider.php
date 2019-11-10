@@ -5,7 +5,7 @@
  * Date: 2019/11/10 0010
  * Time: 8:08
  */
-namespace Lixiyong\LunitLaravel;
+namespace Lixiyong\LunitLaravel\Providers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
